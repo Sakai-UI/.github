@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" width="120" height="120" />
+  <img src="./icon.png" width="120" height="120" />
   <h1>Sakai Theme</h1>
   <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist.</p>
 </div>
